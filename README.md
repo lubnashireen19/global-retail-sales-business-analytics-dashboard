@@ -1,13 +1,13 @@
-# 📊 Global Retail Sales Business Analytics Dashboard
+# Global Retail Sales Business Analytics Dashboard
 
 Interactive business analytics dashboard built using Streamlit, Pandas, Plotly, and SQL to analyze global retail sales performance, profitability, and customer behavior.
 
-## 🚀 Live Demo
+## Live Demo
 https://global-retail-sales-business-analytics-dashboard.streamlit.app/
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project is a business analytics dashboard designed to help analyze retail sales performance across different regions, categories, and customer segments.
 
 The dashboard provides interactive insights into:
@@ -22,7 +22,7 @@ The dashboard provides interactive insights into:
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ Interactive dashboard filters  
 ✅ Revenue, Profit, Orders, Customers KPI cards  
@@ -37,7 +37,7 @@ The dashboard provides interactive insights into:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -48,7 +48,7 @@ The dashboard provides interactive insights into:
 
 ---
 
-## 📂 Dataset
+## Dataset
 **Global Superstore Sales Dataset**
 
 Dataset contains:
@@ -63,7 +63,7 @@ Dataset contains:
 
 ---
 
-## 📊 Business Questions Answered
+## Business Questions Answered
 
 - Which regions generate the highest revenue?
 - Which categories contribute the most profit?
@@ -75,7 +75,7 @@ Dataset contains:
 
 ---
 
-## ⚙️ Installation & Run Locally
+## Installation & Run Locally
 
 Clone repository:
 
@@ -96,11 +96,11 @@ streamlit run app.py
 ```
 ---
 
-## 👩‍💻 Author
+## Author
 **Lubna Shireen R**  
 Business Analytics | Data Enthusiast | Python | SQL | Streamlit | Plotly
 
 ---
 
-## 📄 License
+## License
 MIT License
