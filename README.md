@@ -3,7 +3,7 @@
 Interactive business analytics dashboard built using Streamlit, Pandas, Plotly, and SQL to analyze global retail sales performance, profitability, and customer behavior.
 
 ## 🚀 Live Demo
-[View Live App](PASTE_STREAMLIT_LINK_HERE)
+https://global-retail-sales-business-analytics-dashboard.streamlit.app/
 
 ---
 
@@ -94,12 +94,6 @@ Run app:
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 📸 Dashboard Preview
-(Add screenshot after deployment)
-
 ---
 
 ## 👩‍💻 Author
